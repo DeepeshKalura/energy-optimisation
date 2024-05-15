@@ -1,6 +1,33 @@
 # Energy Optimisation
 
-This project is a Streamlit application that helps users optimise their energy consumption.
+This project aims to show case the importance of the .
+
+## Images
+
+<table>
+  <tr>
+    <td>
+      <img src="image/map.png" alt="Map View" width="400"/>
+    </td>
+    <td>
+      <img src="image/tips.png" alt="Tips" width="400"/>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src="image/cost.png" alt="cost" width="400"/>
+    </td>
+    <td>
+      <img src="image/energy.png" alt="energy" width="400"/>
+    </td>
+    <td>
+      <img src="image/sustainability.png" alt="sustainability" width="400"/>
+    </td>
+  </tr>
+</table>
 
 ## Features
 
